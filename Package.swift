@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ULinkAD",
-            url: "https://github.com/binhalomobi/ULinkAD-ios/releases/download/1.2.0/ULinkAD-1.2.0.zip",
-            checksum: "47813ce304b0d58f19da89deed26fa67b2045168e5b4eb6f2e9c6c91fde6e13e"
+            url: "https://github.com/binhalomobi/ULinkAD-ios/releases/download/2.0.0/ULinkAD-2.0.0.zip",
+            checksum: "cfc8591cceac6b2b12f0938f1e4a77cea2569cceb693aa1fa97ba1ac984677c4"
         )
     ]
 )
